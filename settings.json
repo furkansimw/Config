@@ -1,0 +1,74 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 20,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "debug.console.fontSize": 16,
+  "markdown.preview.fontSize": 18,
+  "terminal.integrated.fontSize": 18,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.fontFamily": "Consolas",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "files.exclude": {
+    "**./chat.iml": true,
+    "**/.dart_tool": true,
+    "**/.flutter-plugins": true,
+    "**/.flutter-plugins-dependencies": true,
+    "**/.gitattributes": true,
+    "**/.gitignore": true,
+    "**/.idea": true,
+    "**/.iml": true,
+    "**/.metadata": true,
+    "**/.packages": true,
+    "**/.vscode": true,
+    "**/web": true,
+    "**/windows": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "dart.hotReloadOnSave": "always",
+  "files.autoSaveDelay": 500,
+
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "editor.fontLigatures": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.unicodeHighlight.allowedLocales": {
+    "tr": true
+  },
+  "editor.fontWeight": "normal",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#181818",
+    "sideBar.background": "#181818",
+    "activityBar.background": "#181818"
+  },
+  "window.zoomLevel": 1,
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false
+}
