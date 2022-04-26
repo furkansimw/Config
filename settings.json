@@ -1,6 +1,6 @@
 {
   "workbench.startupEditor": "none",
-  "editor.fontSize": 20,
+  "editor.fontSize": 22,
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
@@ -12,7 +12,7 @@
   "files.associations": {
     "*.js": "javascriptreact"
   },
-  "editor.fontFamily": "Consolas",
+  "editor.fontFamily": "Menlo",
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -63,12 +63,12 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.colorCustomizations": {
-    "editor.background": "#181818",
-    "sideBar.background": "#181818",
-    "activityBar.background": "#181818"
+    "editor.background": "#1b1f25",
+    "sideBar.background": "#1b1f25",
+    "activityBar.background": "#1b1f25"
   },
-  "window.zoomLevel": 1,
   "dart.debugExternalPackageLibraries": false,
   "dart.debugSdkLibraries": false,
-  "bracket-pair-colorizer-2.depreciation-notice": false
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.colorTheme": "Atom One Dark"
 }
