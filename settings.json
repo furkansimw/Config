@@ -7,5 +7,7 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false
 }
