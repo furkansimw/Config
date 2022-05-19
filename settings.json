@@ -9,5 +9,6 @@
   },
   "editor.formatOnSave": true,
   "git.enableSmartCommit": true,
-  "explorer.confirmDragAndDrop": false
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
 }
