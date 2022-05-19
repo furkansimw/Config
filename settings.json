@@ -3,5 +3,9 @@
   "window.zoomLevel": 1,
   "explorer.confirmDelete": false,
   "files.autoSave": "afterDelay",
-  "editor.fontLigatures": false
+  "editor.fontLigatures": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true
 }
