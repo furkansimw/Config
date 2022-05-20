@@ -1,14 +1,18 @@
 {
-  "editor.fontSize": 20,
-  "window.zoomLevel": 1,
-  "explorer.confirmDelete": false,
-  "files.autoSave": "afterDelay",
-  "editor.fontLigatures": false,
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.formatOnSave": true,
-  "git.enableSmartCommit": true,
-  "explorer.confirmDragAndDrop": false,
-  "typescript.updateImportsOnFileMove.enabled": "always",
-}
+    "editor.fontSize": 20,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontLigatures": false,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 1,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontSize": 18,
+  }
