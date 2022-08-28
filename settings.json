@@ -144,5 +144,6 @@
     "editor.fontFamily": "Consolas",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "explorer.confirmDragAndDrop": false
 }
