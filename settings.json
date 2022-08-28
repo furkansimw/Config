@@ -140,5 +140,9 @@
         "**/node_modules": true
     },
     "editor.fontLigatures": false,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Consolas",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
