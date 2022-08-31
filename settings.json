@@ -1,8 +1,8 @@
 {
-    "editor.fontSize": 20,
+    "editor.fontSize": 22,
     "workbench.activityBar.visible": false,
     "editor.minimap.enabled": false,
-    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontSize": 22,
     "workbench.sideBar.location": "right",
     "editor.formatOnSave": true,
     "workbench.tree.indent": 24,
