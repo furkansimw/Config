@@ -63,6 +63,7 @@
   },
   "workbench.colorTheme": "Monokai Dark Soda",
   "workbench.sideBar.location": "right",
-  "workbench.activityBar.visible": false
+  "workbench.activityBar.visible": false,
+  "editor.lineHeight": 26
 }
 
