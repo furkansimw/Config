@@ -1,6 +1,7 @@
 {
   "files.autoSave": "afterDelay",
   "editor.fontLigatures": false,
+  "files.autoSaveDelay": 0,
   "editor.formatOnSave": true,
   "files.exclude": {
     "**/__tests__": true,
@@ -26,8 +27,7 @@
   "editor.formatOnPaste": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.startupEditor": "none",
-  "terminal.integrated.fontSize": 22,
-  "editor.minimap.renderCharacters": false,
+  "terminal.integrated.fontSize": 20,
   "editor.glyphMargin": false,
   "editor.inlineSuggest.enabled": true,
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
@@ -41,26 +41,31 @@
     }
   },
   "diffEditor.ignoreTrimWhitespace": false,
-  "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.fontSize": 22,
+  "editor.fontSize": 20,
   "workbench.editor.enablePreview": false,
   "thunder-client.htmlView": "Raw Html",
   "editor.fontWeight": "normal",
-  "editor.minimap.enabled": false,
-  "breadcrumbs.enabled": false,
   "editor.renderWhitespace": "none",
-  "editor.renderControlCharacters": false,
-  "github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": true,
-    "markdown": true
-  },
+
   "editor.bracketPairColorization.enabled": true,
   "editor.unicodeHighlight.allowedLocales": {
     "es": true
   },
   "editor.fontFamily": "Consolas",
-  "workbench.colorTheme": "Monokai Dark Soda"
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.minimap.enabled": false,
+  "window.menuBarVisibility": "toggle",
+  "editor.renderControlCharacters": false,
+  "breadcrumbs.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "workbench.colorTheme": "Monokai Dark Soda",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false
 }
