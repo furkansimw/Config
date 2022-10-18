@@ -1,71 +1,41 @@
 {
-  "files.autoSave": "afterDelay",
-  "editor.fontLigatures": false,
-  "files.autoSaveDelay": 0,
-  "editor.formatOnSave": true,
-  "files.exclude": {
-    "**/__tests__": true,
-    "**/.buckconfig": true,
-    "**/.bundle": true,
-    "**/.eslintrc.js": true,
-    "**/.flowconfig": true,
-    "**/.gitignore": true,
-    "**/.node-version": true,
-    "**/.prettierrc.js": true,
-    "**/.ruby-version": true,
-    "**/.vscode": true,
-    "**/.watchmanconfig": true,
-    "**/babel.config.js": true,
-    "**/Gemfile": true,
-    "**/ios": true,
-    "**/metro.config.js": true,
-    "**/node_modules": true,
-    "**/package-lock.json": true,
-    "**/robots.txt": true,
-    "**/yarn.lock": true
-  },
-  "editor.formatOnPaste": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.startupEditor": "none",
-  "terminal.integrated.fontSize": 20,
-  "editor.glyphMargin": false,
   "editor.inlineSuggest.enabled": true,
+  "editor.fontLigatures": false,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.fontSize": 18,
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.glyphMargin": false,
+  "explorer.confirmDelete": false,
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.fontFamily": "Consolas",
   "workbench.colorCustomizations": {
     "[Monokai Dark Soda]": {
-      "activityBar.background": "#101010",
-      "editor.background": "#101010",
-      "sideBarSectionHeader.background": "#101010",
-      "sideBar.background": "#141414",
-      "statusBar.background": "#101010"
+      "activityBar.background": "#121212",
+      "editor.background": "#121212",
+      "sideBarSectionHeader.background": "#121212",
+      "sideBar.background": "#181818",
+      "statusBar.background": "#121212"
     }
   },
-  "diffEditor.ignoreTrimWhitespace": false,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.fontSize": 20,
-  "workbench.editor.enablePreview": false,
-  "thunder-client.htmlView": "Raw Html",
-  "editor.fontWeight": "normal",
-  "editor.renderWhitespace": "none",
-
-  "editor.bracketPairColorization.enabled": true,
   "editor.unicodeHighlight.allowedLocales": {
     "es": true
   },
-  "editor.fontFamily": "Consolas",
-  "git.enableSmartCommit": true,
-  "git.confirmSync": false,
-  "editor.minimap.enabled": false,
-  "window.menuBarVisibility": "toggle",
-  "editor.renderControlCharacters": false,
-  "breadcrumbs.enabled": false,
+  "editor.fontSize": 18,
+  "editor.fontWeight": "normal",
   "workbench.iconTheme": "material-icon-theme",
-  "explorer.confirmDelete": false,
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.python"
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false
   },
-  "workbench.colorTheme": "Monokai Dark Soda",
-  "workbench.sideBar.location": "right",
-  "workbench.activityBar.visible": false,
-  "workbench.statusBar.visible": false
+  "window.zoomLevel": 1
 }
