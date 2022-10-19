@@ -2,7 +2,7 @@
   "editor.inlineSuggest.enabled": true,
   "editor.fontLigatures": false,
   "files.autoSave": "afterDelay",
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 20,
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "editor.glyphMargin": false,
   "explorer.confirmDelete": false,
@@ -28,14 +28,15 @@
   "editor.unicodeHighlight.allowedLocales": {
     "es": true
   },
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "editor.fontWeight": "normal",
-  "workbench.iconTheme": "material-icon-theme",
   "github.copilot.enable": {
     "*": true,
     "yaml": false,
     "plaintext": true,
     "markdown": false
   },
-  "window.zoomLevel": 1
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.visible": false,
+  "window.zoomLevel": 0.5
 }
