@@ -3,7 +3,7 @@
   "editor.fontLigatures": false,
   "files.autoSave": "afterDelay",
   "terminal.integrated.fontSize": 20,
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.glyphMargin": false,
   "explorer.confirmDelete": false,
   "files.exclude": {
