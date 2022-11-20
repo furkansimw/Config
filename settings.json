@@ -18,11 +18,11 @@
   "editor.fontFamily": "Consolas",
   "workbench.colorCustomizations": {
     "[Monokai Dark Soda]": {
-      "activityBar.background": "#121212",
-      "editor.background": "#121212",
-      "sideBarSectionHeader.background": "#121212",
+      "activityBar.background": "#141414",
+      "editor.background": "#141414",
+      "sideBarSectionHeader.background": "#141414",
       "sideBar.background": "#181818",
-      "statusBar.background": "#121212"
+      "statusBar.background": "#141414"
     }
   },
   "editor.unicodeHighlight.allowedLocales": {
@@ -36,7 +36,5 @@
     "plaintext": true,
     "markdown": false
   },
-  "workbench.sideBar.location": "right",
-  "workbench.activityBar.visible": false,
   "window.zoomLevel": 0.5
 }
