@@ -37,5 +37,6 @@
     "markdown": false
   },
   "window.zoomLevel": 0.5,
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnPaste": true
 }
