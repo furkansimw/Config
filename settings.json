@@ -1,42 +1,48 @@
 {
-  "editor.inlineSuggest.enabled": true,
-  "editor.fontLigatures": false,
-  "files.autoSave": "afterDelay",
-  "terminal.integrated.fontSize": 20,
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.glyphMargin": false,
-  "explorer.confirmDelete": false,
-  "files.exclude": {
-    "**/node_modules": true
-  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "explorer.confirmDragAndDrop": false,
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 18,
+  "editor.glyphMargin": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "explorer.confirmDelete": false,
   "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.babelrc": true,
+    "**/.eslintrc.json": true,
+    "**/.gitignore": true,
+    "**/.next": true,
+    "**/next.config.js": true,
+    "**/node_modules": true,
+    "**/package-lock.json": true
+  },
+  "editor.fontLigatures": false,
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
-  "editor.fontFamily": "Consolas",
+  "workbench.startupEditor": "none",
+  "editor.fontFamily": "Menlo",
+  "explorer.confirmDragAndDrop": false,
+  "editor.unicodeHighlight.allowedLocales": {
+    "es": true,
+    "cs": true
+  },
+  "editor.unicodeHighlight.allowedCharacters": {
+    " ": true,
+    "​": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": false,
   "workbench.colorCustomizations": {
     "[Monokai Dark Soda]": {
-      "activityBar.background": "#141414",
-      "editor.background": "#141414",
-      "sideBarSectionHeader.background": "#141414",
-      "sideBar.background": "#181818",
-      "statusBar.background": "#141414"
+      "editor.background": "#121212",
+      "sideBar.background": "#161616",
+      "activityBar.background": "#121212"
     }
   },
-  "editor.unicodeHighlight.allowedLocales": {
-    "es": true
-  },
-  "editor.fontSize": 20,
-  "editor.fontWeight": "normal",
-  "github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": true,
-    "markdown": false
-  },
-  "window.zoomLevel": 0.5,
+  "files.autoSave": "afterDelay",
+  "window.menuBarVisibility": "toggle",
+  "security.workspace.trust.untrustedFiles": "open",
   "workbench.iconTheme": "material-icon-theme",
-  "editor.formatOnPaste": true
+  "workbench.colorTheme": "Monokai Dark Soda",
+  "window.zoomLevel": 1,
+  "workbench.sideBar.location": "right"
 }
