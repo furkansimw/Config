@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "shift+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "shift+f",
+    "command": "workbench.files.action.focusFilesExplorer"
+  },
+  {
+    "key": "ctrl+;",
+    "command": "postgres.focus"
+  }
+]
