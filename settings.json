@@ -1,48 +1,19 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontSize": 18,
-  "terminal.integrated.fontSize": 18,
-  "editor.glyphMargin": false,
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "explorer.confirmDelete": false,
+  "editor.fontSize": 22,
+  "editor.fontFamily": "Menlo",
   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.fontSize": 20,
   "files.exclude": {
-    "**/.babelrc": true,
     "**/.eslintrc.json": true,
-    "**/.gitignore": true,
     "**/.next": true,
+    "**/jsconfig.json": true,
     "**/next.config.js": true,
     "**/node_modules": true,
     "**/package-lock.json": true
   },
+  "explorer.confirmDelete": false,
+  "files.autoSaveDelay": 0,
   "editor.fontLigatures": false,
-  "git.enableSmartCommit": true,
-  "git.confirmSync": false,
-  "workbench.startupEditor": "none",
-  "editor.fontFamily": "Menlo",
-  "explorer.confirmDragAndDrop": false,
-  "editor.unicodeHighlight.allowedLocales": {
-    "es": true,
-    "cs": true
-  },
-  "editor.unicodeHighlight.allowedCharacters": {
-    " ": true,
-    "​": true
-  },
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.minimap.enabled": false,
-  "workbench.colorCustomizations": {
-    "[Monokai Dark Soda]": {
-      "editor.background": "#121212",
-      "sideBar.background": "#161616",
-      "activityBar.background": "#121212"
-    }
-  },
-  "files.autoSave": "afterDelay",
-  "window.menuBarVisibility": "toggle",
-  "security.workspace.trust.untrustedFiles": "open",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai Dark Soda",
-  "window.zoomLevel": 1,
-  "workbench.sideBar.location": "right"
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
