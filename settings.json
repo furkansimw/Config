@@ -1,6 +1,7 @@
 {
   "editor.fontSize": 22,
   "editor.fontFamily": "Menlo",
+  "editor.glyphMargin": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "terminal.integrated.fontSize": 20,
