@@ -5,10 +5,10 @@
   },
   {
     "key": "shift+f",
-    "command": "workbench.files.action.focusFilesExplorer"
+    "command": "workbench.explorer.fileView.focus"
   },
   {
-    "key": "ctrl+;",
-    "command": "postgres.focus"
+    "key": "ctrl+shift+3",
+    "command": "workbench.view.extension.github-cweijan-mysql"
   }
 ]
