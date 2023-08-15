@@ -16,5 +16,6 @@
   "explorer.confirmDelete": false,
   "files.autoSaveDelay": 0,
   "editor.fontLigatures": false,
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.startupEditor": "none"
 }
