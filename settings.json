@@ -1,10 +1,6 @@
 {
-  "editor.fontSize": 22,
-  "editor.fontFamily": "Menlo",
-  "editor.glyphMargin": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "terminal.integrated.fontSize": 20,
   "files.exclude": {
     "**/.eslintrc.json": true,
     "**/.next": true,
@@ -15,7 +11,32 @@
   },
   "explorer.confirmDelete": false,
   "files.autoSaveDelay": 0,
-  "editor.fontLigatures": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.startupEditor": "none"
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 20,
+  "editor.fontFamily": "Monaco",
+  "editor.fontLigatures": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.fontSize": 20,
+  "editor.minimap.enabled": false,
+  "editor.glyphMargin": false,
+  "workbench.colorTheme": "Monokai Dark Soda",
+  "workbench.colorCustomizations": {
+    "editor.background": "#000",
+    "sideBar.background": "#111",
+    "activityBar.background": "#000"
+  },
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "editor.fontVariations": false
 }
