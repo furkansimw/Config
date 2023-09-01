@@ -15,7 +15,8 @@
   "github.copilot.enable": {
     "*": true,
     "plaintext": true,
-    "markdown": true
+    "markdown": false,
+    "scminput": false
   },
   "security.workspace.trust.untrustedFiles": "open",
   "git.enableSmartCommit": true,
@@ -33,7 +34,7 @@
   "workbench.colorTheme": "Monokai Dark Soda",
   "workbench.colorCustomizations": {
     "editor.background": "#000",
-    "sideBar.background": "#111",
+    "sideBar.background": "#000",
     "activityBar.background": "#000"
   },
   "workbench.statusBar.visible": false,
